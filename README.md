@@ -48,7 +48,7 @@ This repository contains an example of user authentication implementation using 
 ```
 
 # Description of the User Login Process (userLogin)
-The user login process is essential to allow users to securely access systems, applications, or platforms. Let's detail each step of this process:
+The user login process is essential to allow users to securely access systems, applications, or platforms. Let's looking down the detail of each step of this process.
 <br>
 # Presentation of the Login Form:
 The user accesses the login page.
