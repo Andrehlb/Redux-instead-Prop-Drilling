@@ -2,6 +2,7 @@
 This repository contains an example of user authentication implementation using TypeScript, Next.js/React, and Tailwind CSS. The login process is managed through actions, reducers, and secure storage of the authentication token. The code demonstrates good security practices and redirection after successful login. 🤩
 <br>
 # userLogin diagram
+```
 +------------------------------------+
 |                                    |
 |            Componente              |
@@ -44,6 +45,7 @@ This repository contains an example of user authentication implementation using 
 |         Página Inicial             |
 |                                    |
 +------------------------------------+
+```
 <br>
 # Description of the User Login Process (userLogin)
 The user login process is essential to allow users to securely access systems, applications, or platforms. Let's detail each step of this process:
